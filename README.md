@@ -8,4 +8,4 @@ This is a repo for sharing ideas about technical communications
 
 
 ### Gist Sharing Examples
-This is a sample gist sharing example [My Code] (https://gist.github.com/hansmukhdp/b681eae4827b92eafc80a14ebcfdb716)
+This is a sample gist sharing example [My Code](https://gist.github.com/hansmukhdp/b681eae4827b92eafc80a14ebcfdb716)
